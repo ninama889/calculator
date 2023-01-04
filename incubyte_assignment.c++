@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#pragma region 
 using namespace std;
 #define sync                              \
     {                                     \
